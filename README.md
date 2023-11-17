@@ -14,7 +14,6 @@ material de estudos de testes de API. Para mais informações sobre a documenta�
 
 - Java 11 ou superior
 - Spring Boot 2.7.15
-- Selenium 4.1.0
 - WebDriverManager 5.2.1
 - JUnit Jupiter 5.8.1
 - RestAssured 4.5.1
